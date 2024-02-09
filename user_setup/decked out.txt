@@ -1,0 +1,14 @@
+Hermitcraft runs on Fabric - https://fabricmc.net/
+
+Decked out requires a minimum simulation distance of 10 and render distance of 16.
+
+Decked out uses the following mods
+https://modrinth.com/mod/audioplayer/version/fabric-1.20.1-1.7.1
+https://modrinth.com/mod/fabric-api/version/0.83.0+1.20
+https://modrinth.com/plugin/simple-voice-chat/version/fabric-1.20.1-2.4.25
+
+To play Decked Out with a working map, you need a second player with a map in their offhand at this location. These commands will teleport you and give you the correct map.
+/tp @p -511.5 62.0 1737.5
+/give @p minecraft:filled_map{map: 976}
+
+You can use Open To LAN in the Game Menu to let another account join. The account with the map is best left in spectator mode.
