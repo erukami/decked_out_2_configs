@@ -28,6 +28,6 @@ Copy directly to `<Minecraft install location>\resourcepacks`. Do NOT unzip.
 
 ### Config
 
-- [config.zip](config.zip)
+- [config.zip](../../../raw/main/user_setup/config.zip)
 
 Copy unzipped into `<Minecraft install loaction>\config`
