@@ -13,11 +13,11 @@ Place in `<Minecraft install location>\mods`
 
 #### Mods (Required)
 
-- [Simple Voice Chat](../../../raw/main/mods/voicechat-fabric-1.20.1-2.4.32.jar)
+- [Simple Voice Chat](../../../raw/main/mods/voicechat-fabric-1.20.1-2.4.25.jar)
 
 #### Mods (Suggested)
 
-- [Fabric Api](../../../raw/main/mods/fabric-api-0.91.1%2B1.20.1.jar)
+- [Fabric Api](../../../raw/main/mods/fabric-api-0.91.1%25B1.20.1.jar)
 - [Sodium](https://cdn.modrinth.com/data/AANobbMI/versions/mhZtY2lR/sodium-fabric-0.5.8%2Bmc1.20.1.jar)
 
 ### Resource Pack
