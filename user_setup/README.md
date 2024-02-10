@@ -22,12 +22,12 @@ Place in `<Minecraft install location>\mods`
 
 ### Resource Pack
 
-- [resources.zip](resourcepacks\resources.zip)
+- [resources.zip](resourcepacks/resources.zip)
 
 Copy directly to `<Minecraft install location>\resourcepacks`. Do NOT unzip.
 
 ### Config
 
-- [config.zip]
+- [config.zip](config.zip)
 
 Copy unzipped into `<Minecraft install loaction>\config`
