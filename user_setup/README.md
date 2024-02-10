@@ -17,7 +17,7 @@ Place in `<Minecraft install location>\mods`
 
 #### Mods (Suggested)
 
-- [Fabric Api](../../../raw/main/mods/fabric-api-0.91.1%25B1.20.1.jar)
+- [Fabric Api](../../../raw/main/mods/fabric-api-0.91.0%252B1.20.1.jar)
 - [Sodium](https://cdn.modrinth.com/data/AANobbMI/versions/mhZtY2lR/sodium-fabric-0.5.8%2Bmc1.20.1.jar)
 
 ### Resource Pack
